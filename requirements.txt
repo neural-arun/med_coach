@@ -1,0 +1,8 @@
+langgraph
+fastapi
+uvicorn
+gradio
+openai
+pydantic
+sqlite-utils
+python-dotenv
